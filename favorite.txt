@@ -1,4 +1,11 @@
+Favorites:
 - Foods:
   apple
   mango
   banana
+
+- Movies:
+  Avengers
+  Spiderman
+  Doctor Strange
+
